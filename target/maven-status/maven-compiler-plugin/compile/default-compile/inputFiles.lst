@@ -1,0 +1,7 @@
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/DslistApplication.java
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/ServletInitializer.java
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/controllers/GameController.java
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/dto/GameMinDTO.java
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/entities/Game.java
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/repositories/GameRepository.java
+/home/mateus/Documents/workspace-spring-tool-suite-4-4.24.0.RELEASE/dslist/src/main/java/br/com/mateus/dslist/services/GameService.java

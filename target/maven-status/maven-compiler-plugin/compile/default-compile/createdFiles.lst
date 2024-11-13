@@ -1,0 +1,7 @@
+br/com/mateus/dslist/dto/GameMinDTO.class
+br/com/mateus/dslist/DslistApplication.class
+br/com/mateus/dslist/controllers/GameController.class
+br/com/mateus/dslist/services/GameService.class
+br/com/mateus/dslist/entities/Game.class
+br/com/mateus/dslist/ServletInitializer.class
+br/com/mateus/dslist/repositories/GameRepository.class
